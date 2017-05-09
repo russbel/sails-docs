@@ -1,7 +1,7 @@
 # README
-### Purpose
+### Proposito
 
-This is a generic README that you can edit to describe your app.
+Este es un README genérico que puedes editar para describir tu aplicación. 
 
 
 <docmeta name="displayName" value="README.md">
