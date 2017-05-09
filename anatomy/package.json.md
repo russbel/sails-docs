@@ -1,9 +1,9 @@
 # package.json
-### Purpose
-This is a standard configuration file for [npm](https://npmjs.org/doc/json.html). Among other things, this file contains the name and version of all of the Node Modules that your app depends on to run.  You can change this manually but be careful to adhere to their rules or things might break.
+### Proposito
+Este es un archivo de configuración [npm](https://npmjs.org/doc/json.html). Entre otras cosas, este archivo contiene el nombre y la versión de todos los módulos de nodo de los que depende su aplicación para ejecutarse. Usted puede cambiar esto manualmente pero tenga cuidado de adherirse a sus reglas o cosas podrían romperse 
 
-### More Info
-> Check out [this awesome interactive guide by Nodejitsu](http://package.json.nodejitsu.com) explaining package.json
+### Más Información
+> Revisa [esta guía interactiva impresionante de Nodejitsu](http://package.json.nodejitsu.com) explicando sobre package.json
 
 
 
